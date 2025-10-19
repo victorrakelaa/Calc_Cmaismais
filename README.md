@@ -1,31 +1,27 @@
-# Simple Calculator
+# Calculadora Simples
 
-A C++ application that performs basic arithmetic operations.
+Aplicação em C++.
 
-## Building and Running
-
-### Prerequisites
+# Requisitos
 - g++ compiler
 - make
 
-### Build
+# Criar
 ```bash
 make
 ```
 
-### Run
+# Rodar
 ```bash
 ./main
 ```
 
-### Usage
-The program will prompt you to:
-1. Enter the first number
-2. Enter an operation (+, -, *, /)
-3. Enter the second number
+# Como usar
+1. Digite o primeiro numero
+2. Escolha a operação (+, -, *, /)
+3. Escolha o segundo numero
 
-It will then display the result of the calculation.
-
-### Clean
+# Limpar
 ```bash
 make clean
+
